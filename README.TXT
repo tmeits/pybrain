@@ -25,3 +25,7 @@ If you have matplotlib, the scripts in
 	examples/*
 may be instructive as well.
 
+LINKS
+-------------
+http://habrahabr.ru/search/?q=%5Bpybrain%5D&target_type=posts
+
